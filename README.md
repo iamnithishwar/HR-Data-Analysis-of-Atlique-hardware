@@ -4,7 +4,7 @@ Designed a Power BI dashboard to track employee data for the HR team, including 
 
 
 
-*SKILLS*
+**SKILLS**
 
 PowerBI
 
@@ -15,4 +15,6 @@ Excel
 Data Visualization 
 
 Data Cleaning
+
+
 
